@@ -5,8 +5,8 @@
   <div class="container">
     <div class="row justify-content-center">
       <div class="col-lg-6">
-        <h4>Join Our Newsletter</h4>
-        <p>Tamen quem nulla quae legam multos aute sint culpa legam noster magna</p>
+        <h4>MENGAPA HARUS MEMILIH ANDROMEDA?</h4>
+        <p>Klik Subscribe Untuk mendapatkan info lebih lengkap atau untuk mendapatkan diskon promo. ANDROMEDA telah terdaftar sebagai produk penyedia layanan digital di Kominfo Republik Indonesia.</p>
         <form action="" method="post">
           <input type="email" name="email"><input type="submit" value="Subscribe">
         </form>
@@ -20,13 +20,13 @@
     <div class="row">
 
       <div class="col-lg-3 col-md-6 footer-contact">
-        <h3>Arsha</h3>
+        <h3>PT.MARSTECH GLOBAL</h3>
         <p>
-          A108 Adam Street <br>
-          New York, NY 535022<br>
-          United States <br><br>
-          <strong>Phone:</strong> +1 5589 55488 55<br>
-          <strong>Email:</strong> info@example.com<br>
+          Jl. Margatama Asri IV<br>
+          Kanigoro, Kec. Kartoharjo<br>
+          Kota Madiun<br><br>
+          <strong>Phone:</strong> (0351) 2812555<br>
+          <strong>Email:</strong> mars@example.com<br>
         </p>
       </div>
 
@@ -37,24 +37,23 @@
           <li><i class="bx bx-chevron-right"></i> <a href="#">About us</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="#">Services</a></li>
           <li><i class="bx bx-chevron-right"></i> <a href="#">Terms of service</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Privacy policy</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="#">Testimoni</a></li>
         </ul>
       </div>
 
       <div class="col-lg-3 col-md-6 footer-links">
         <h4>Our Services</h4>
         <ul>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Web Design</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Web Development</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Product Management</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Marketing</a></li>
-          <li><i class="bx bx-chevron-right"></i> <a href="#">Graphic Design</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="#">Akuntansi Koperasi dan UKM</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="#">Aplikasi Simpan Pinjam Gratis</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="#">Aplikasi Koperasi Digital</a></li>
+          <li><i class="bx bx-chevron-right"></i> <a href="#">Laporan Keuangan Koperasi Simpan Pinjam</a></li>
         </ul>
       </div>
 
       <div class="col-lg-3 col-md-6 footer-links">
         <h4>Our Social Networks</h4>
-        <p>Cras fermentum odio eu feugiat lide par naso tierra videa magna derita valies</p>
+        <p>Info lebih lanjut</p>
         <div class="social-links mt-3">
           <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
           <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
@@ -70,14 +69,14 @@
 
 <div class="container footer-bottom clearfix">
   <div class="copyright">
-    &copy; Copyright <strong><span>Arsha</span></strong>. All Rights Reserved
+    &copy; Copyright <strong><span>MARSTECH</span></strong>. All Rights Reserved
   </div>
   <div class="credits">
     <!-- All the links in the footer should remain intact. -->
     <!-- You can delete the links only if you purchased the pro version. -->
     <!-- Licensing information: https://bootstrapmade.com/license/ -->
     <!-- Purchase the pro version with working PHP/AJAX contact form: https://bootstrapmade.com/arsha-free-bootstrap-html-template-corporate/ -->
-    Designed by <a href="https://bootstrapmade.com/">BootstrapMade</a>
+   
   </div>
 </div>
 </footer><!-- End Footer -->
